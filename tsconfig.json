@@ -1,0 +1,8 @@
+{
+  "conpilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "type-alias.ts"
+  ]
+}
