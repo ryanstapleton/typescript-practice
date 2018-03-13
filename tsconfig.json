@@ -3,6 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "type-alias.ts"
+    "arithmetic-operators.ts"
   ]
 }
