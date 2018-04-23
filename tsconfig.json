@@ -1,8 +1,13 @@
 {
-  "conpilerOptions": {
+  "compilerOptions": {
+    "module": "amd",
+    // "target": "es6", // sudo npm install typings --global
+    "target": "ES5",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "sourceMap": true
   },
   "files": [
-    "objects.ts"
+    "method-decorators.ts"
   ]
 }
